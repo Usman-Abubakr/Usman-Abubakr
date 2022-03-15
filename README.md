@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Usman-Abubakr
 - 👀 I’m interested in ... Mechanical keyboards, coding, modding and repairing tech, JRPG's.
 - 🌱 I’m currently learning ... PCB design.
-- 💞️ I’m looking to collaborate on ... Open source projects, anything really.
+- 💞️ I’m looking to collaborate on ...  Anything really.
 - 📫 How to reach me ... [EMAIL]
 
 <!---
